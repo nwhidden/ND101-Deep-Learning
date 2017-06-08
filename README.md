@@ -1,3 +1,6 @@
+This is my working copy of the Deep Learning Nanodegree projects and materials. Cloned from https://github.com/udacity/deep-learning.git
+
+
 # Deep Learning Nanodegree Foundation
 
 This repository contains material related to Udacity's [Deep Learning Nanodegree Foundation](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) program. It consists of a bunch of tutorial notebooks for various deep learning topics. In most cases, the notebooks lead you through implementing models such as convolutional networks, recurrent networks, and GANs. There are other topics covered such as weight intialization and batch normalization.
