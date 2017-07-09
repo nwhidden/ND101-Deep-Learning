@@ -1,7 +1,8 @@
 This is my working copy of the Deep Learning Nanodegree projects and materials. Cloned from https://github.com/udacity/deep-learning.git
 
-Check out my project results! They are viewed as HTML files.
-Project1: [Your First Neural Network](https://github.com/nwhidden/ND101-Deep-Learning/tree/master/first-neural-network/Your_first_neural_network.html)
+Check out my project results! 
+Project1: [Your First Neural Network](https://github.com/nwhidden/ND101-Deep-Learning/tree/master/first-neural-network/Your_first_neural_network.ipynb)
+Project2: [Image classification](https://github.com/nwhidden/ND101-Deep-Learning/tree/master/image-classification/dlnd_image_classification.ipynb): Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
 
 Original readme file below
 # Deep Learning Nanodegree Foundation
