@@ -5,3 +5,8 @@ embeddings/data/
 embeddings/text8.zip
 
 .ipynb_checkpoints/
+image-classification/cifar-10-batches-py/
+image-classification/cifar-10-python.tar.gz
+image-classification/image_classification.data-00000-of-00001
+image-classification/__pycache__/
+image-classification/preprocess_batch*
