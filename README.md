@@ -4,6 +4,11 @@ Check out my project results!
 
 * Project1: [Your First Neural Network](https://github.com/nwhidden/ND101-Deep-Learning/tree/master/first-neural-network/Your_first_neural_network.ipynb)
 * Project2: [Image classification](https://github.com/nwhidden/ND101-Deep-Learning/tree/master/image-classification/dlnd_image_classification.ipynb): Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
+* Project3: [Generate TV Scripts](https://github.com/nwhidden/ND101-Deep-Learning/blob/master/tv-script-generation/dlnd_tv_script_generation.ipynb): Generate a Simpsons TV script using a Recurrent Neural Network.
+* Project4: [Language Translation](https://github.com/nwhidden/ND101-Deep-Learning/blob/master/language-translation/dlnd_language_translation.ipynb): Create and train a Recurrent Neural Network to translate phrase from French to English.
+* Project5: [Generate Faces](https://github.com/nwhidden/ND101-Deep-Learning/blob/master/face_generation/dlnd_face_generation.ipynb): Train a neural network how to generate realistic facial images by pitting two networks against each other.
+
+
 
 Original readme file below:
 # Deep Learning Nanodegree Foundation
